@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520017879848",
+    "project_id": "fb-login-and-multiple-photos",
+    "storage_bucket": "fb-login-and-multiple-photos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520017879848:android:8151c22cf089ad10ef261d",
+        "android_client_info": {
+          "package_name": "com.karthik.fb_login_and_multiple_photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520017879848-33o8n4np9l21orh0gnqne64dtlr1rdct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDceQfZwQO-GJFcKZQvBMua8895Q9B_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520017879848-33o8n4np9l21orh0gnqne64dtlr1rdct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
